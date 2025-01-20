@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="4537"
+   height="3403"
+   viewBox="0 0 4537 3403"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter1"
+       x="-0.004872751"
+       y="-0.0086596767"
+       width="1.0097455"
+       height="1.0173194">
+      <feGaussianBlur
+         stdDeviation="9.21153 12.2787"
+         result="blur"
+         id="feGaussianBlur1" />
+    </filter>
+  </defs>
+  <g
+     id="g1">
+    <image
+       width="4537"
+       height="3403"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality;opacity:0.53900709;filter:url(#filter1)"
+       xlink:href="auction.jpg"
+       id="image1" />
+  </g>
+</svg>
